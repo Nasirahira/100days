@@ -1,0 +1,12 @@
+package pkg100.days;
+
+ class Harikedua {
+    
+    public static void main(String[] args) {
+        
+        for(int n=0; n<23;n=+2){
+            if(n%2 ==0);
+            System.out.println(n+2);
+        }
+    }
+}
